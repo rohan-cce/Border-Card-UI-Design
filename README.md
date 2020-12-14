@@ -1,2 +1,1 @@
-# Border Card UI Design
- Border Card Ui Design Using CSS3
+# Recommendations page ui using css
